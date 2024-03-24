@@ -1,0 +1,11 @@
+Register a user  
+login a user
+who am i
+add new product
+update a product
+get all product
+get a single product
+delete a product
+
+
+[✅]
